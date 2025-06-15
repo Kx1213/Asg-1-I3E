@@ -28,3 +28,11 @@ https://assetstore.unity.com/packages/essentials/starter-assets-first-person-cha
 Models-Door and Roof and Wall went maya to make and uses substance painter for texture
 Monsters https://assetstore.unity.com/packages/3d/props/3d-birds-prototype-pack-150502
 Went youtube to learn about for teleportation and victory UI
+
+How to play:
+Download as zip file
+Unzip it
+Go to unity hub and add from disk
+Once open go to assets then scene
+then open "Sample Scene"
+then you can start playing
